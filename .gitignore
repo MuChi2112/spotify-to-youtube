@@ -1,0 +1,9 @@
+# 忽略 .cache 目录
+.cache
+
+# 忽略 not_found_tracks_liked.txt 文件
+not_found_tracks_liked.txt
+
+.env
+
+credentials.json
